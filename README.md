@@ -18,3 +18,6 @@ A 5-page interactive Power BI report analysing Shreyas Iyer's batting career.
 
 ## Tools
 Power BI Desktop | DAX | Manual data collection
+## Screenshots
+<img width="1161" height="654" alt="Screenshot 2026-05-29 154808" src="https://github.com/user-attachments/assets/9cde5f6f-6aa5-40b6-b3fb-f40e3d8f96f2" />
+
